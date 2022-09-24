@@ -2,6 +2,38 @@
   text-align: center;
 }
 
+.square{
+  padding: 0px;
+  width:40px;
+  height:40px;
+}
+
+.unrevealed-square{
+  content:url("logo.svg");
+  width:40px;
+  height:40px;
+}
+.revealed-square{
+  /* content:url(""); */
+  width:40px;
+  height:40px;
+}
+.boom-square{
+  content:url("boom.png");
+  width:40px;
+  height:40px;
+}
+
+.game-board{
+  border: 1px;
+  border-style: solid;
+  border-spacing: 0px;
+  padding:10px;
+}
+.game-board tr td{
+  padding:0px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -27,7 +59,7 @@
 .App-link {
   color: #61dafb;
 }
-
+/* 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +67,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: #282c34;
+}
+.nav-items{
+    list-style:None;
+    display:flex;
+}
+.nav-items > li{
+    padding:10px;   
+    color: white;
+
+}
+.nav-logo{
+    width:40px;
+}
