@@ -1,6 +1,6 @@
 # React Playground
 
-1. Minesweeper main function\
+1. Minesweeper main function.
 
-2. Minesweeper nodejs
+2. Minesweeper nodejs.
 
