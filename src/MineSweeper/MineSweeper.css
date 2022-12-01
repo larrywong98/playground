@@ -2,36 +2,36 @@
   text-align: center;
 }
 
-.square{
+.square {
   padding: 0px;
-  width:40px;
-  height:40px;
+  width: 40px;
+  height: 40px;
 }
 
-.unrevealed-square{
-  content:url("logo.svg");
-  width:40px;
-  height:40px;
+.unrevealed-square {
+  content: url("logo.svg");
+  width: 40px;
+  height: 40px;
 }
-.revealed-square{
+.revealed-square {
   /* content:url(""); */
-  width:40px;
-  height:40px;
+  width: 40px;
+  height: 40px;
 }
-.boom-square{
-  content:url("boom.png");
-  width:40px;
-  height:40px;
+.boom-square {
+  content: url("boom.png");
+  width: 40px;
+  height: 40px;
 }
 
-.game-board{
+.game-board {
   border: 1px;
   border-style: solid;
   border-spacing: 0px;
-  padding:10px;
+  padding: 10px;
 }
-.game-board tr td{
-  padding:0px;
+.game-board tr td {
+  padding: 0px;
 }
 
 .App-logo {
